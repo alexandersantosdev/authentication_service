@@ -1,7 +1,7 @@
 {
   "name": "projeto-auth",
   "version": "1.0.0",
-  "description": "projeto de autenticação com jwk authToken e refreshToken",
+  "description": "projeto de autenticação com jwk authToken",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js"
