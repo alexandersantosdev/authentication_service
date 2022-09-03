@@ -1,6 +1,6 @@
-#Serviço de criação, autenticação e login de usuários.
+# Serviço de criação, autenticação e login de usuários.
 
--Node
--Jwt
--Bcrypt
--Express
+- Node
+- Jwt
+- Bcrypt
+- Express
